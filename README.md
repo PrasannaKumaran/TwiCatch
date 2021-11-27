@@ -2,12 +2,6 @@
 
 Implementation of Graph Neural Networks to identify twitch users who use mature content during their streaming
 
-Requirements can be installed by entering the following command in the Terminal:
-
-```bash
-pip install -r requirements.txt
-```
-
 ### How to run the program
 
 1. Clone the repo
