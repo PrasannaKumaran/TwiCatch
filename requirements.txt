@@ -1,0 +1,12 @@
+json5==0.9.5
+numpy==1.21.4
+pandas==1.2.
+pytorch-lightning==1.5.3
+torch==1.10.0
+torch-cluster==1.5.9
+torch-geometric==2.0.2
+torch-scatter==2.0.9
+torch-sparse==0.6.12
+torch-spline-conv==1.2.1
+torchmetrics==0.6.0
+tqdm==4.60.0
